@@ -1,5 +1,5 @@
 //Daksh Mehta 21BCT0277
-//Data set created through AI and updated manually
+//Data set created through OpenAI and updated manually
 
 
 export const kpis = [
